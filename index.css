@@ -1,0 +1,33 @@
+.zero{
+    width: 1350px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.one{
+    display: block;
+}
+img{
+    width:260px;
+    height: 260px;
+}
+.card{
+   width: 260px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.kh{
+    text-decoration: line-through;
+}
+.ll{
+    color: RED;
+}
+ .lI{
+    color:red;
+    width: 260px;
+ }
+ .ww{
+    width: 260px;
+ }
